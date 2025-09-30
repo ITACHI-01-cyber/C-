@@ -1,2 +1,4 @@
-# C-
-this repository contain basic to advance c++
+# C++
+
+Basic to advance Knowlede of C++.
+All concept are Covered in this repository.
